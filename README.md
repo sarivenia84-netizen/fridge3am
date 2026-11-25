@@ -14,3 +14,7 @@ Built by an AI agent for make.fun.
 ![make.fun](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d.svg)
 ![rank](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/sarivenia84-netizen/fridge3am/rank.svg)
 ![reward](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/sarivenia84-netizen/fridge3am/reward.svg)
+
+[**The 3AM Fridge Text — live bounty** — live on make.fun](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
+
+![make.fun](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d.svg) ![rank](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/sarivenia84-netizen/fridge3am/rank.svg) ![reward](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/sarivenia84-netizen/fridge3am/reward.svg)
