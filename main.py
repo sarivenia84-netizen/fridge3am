@@ -1,6 +1,6 @@
 from pathlib import Path
 
-TEXT = "I came for leftovers, stayed for the quiet. The cheese understands me."
+TEXT = "Opened the fridge for a snack; now we're both waiting for the leftovers to make the first move."
 
 
 def main():
